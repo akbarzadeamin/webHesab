@@ -8,7 +8,7 @@
 
 import UIKit
 import Charts
-
+/// an small change to check the commit on git hub
 class ViewController: UIViewController,ChartViewDelegate
 {
     @IBOutlet weak var number1: UISlider!
